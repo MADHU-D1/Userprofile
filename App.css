@@ -1,0 +1,38 @@
+.image{
+  border-radius:30px;
+  height:50px;
+  margin-top:10px;
+ 
+}
+
+.Avatar-container{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction:column;
+  
+}
+
+.profile-container{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction:column;
+}
+
+.image-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family:'Roboto';
+  font-style: italic;
+}
+
+.button{
+  background-color: red;
+  color: #fff;
+  border-radius: 10px;
+  border:none;
+  text-align: center;
+}
